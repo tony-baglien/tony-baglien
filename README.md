@@ -1,16 +1,25 @@
-## Hi there 👋
+**Hey!** 👋
 
-<!--
-**tony-baglien/tony-baglien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Antonia Gray, a developer based in Milwaukee, WI.
 
-Here are some ideas to get you started:
+I primarily work with **React**, **TypeScript** and **Tailwind**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**What I'm Working with**
+
+For fun: React, Typescript, Tailwind
+
+For work: MagnoliaCMS, FTL
+
+**What I'm learning**
+
+Currently learning Java to get into the weeds with Magnolia and API Development
+
+---
+
+**Where to find me**
+
+[LinkedIn](https://www.linkedin.com/in/tonibaglien/) • [Bluesky](https://bsky.app/profile/antonia-gray.bsky.social)
+
+
