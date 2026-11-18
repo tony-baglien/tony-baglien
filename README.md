@@ -20,6 +20,6 @@ Currently learning Java to get into the weeds with Magnolia and API Development
 
 **Where to find me**
 
-[LinkedIn](https://www.linkedin.com/in/tonibaglien/) • [Bluesky](https://bsky.app/profile/antonia-gray.bsky.social)
+[LinkedIn](https://www.linkedin.com/in/tonibaglien/) 
 
 
